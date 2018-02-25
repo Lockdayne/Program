@@ -1,16 +1,13 @@
-Программа (на языкеJavaScript) которая находит в массиве все 
-пары целых чисел,сумма которых рана заданномузначению. 
-Пары чисел являются уникальными.
-1. Ввод числа сумму которого нам необходимо вычислить.
-2. Цикл которые не пропускает значения которые не являются числом
-3. Генерация рандомного массива из 100 чисел в пределах от 50 до -50
-4. Сортировка массива по возрастанию чисел
-5. Удаление повторяющихся чисел из массива, за исключением искомого числа деленного на 2
-6. Цикл состоящий из 4 условий который перебирает массив и ищет сумму двух чисел которые равны нашему введенномузначению
-7. Вывод найденого результата
-8. Вывод сообщения о отсутствии данных чисел, если нет чисел, сумма
-   которых равна нашему введеному значению. 
+The program (in JavaScript), which finds in the array all pairs of integers whose sum is to a given value. Pairs of numbers are unique.
+1. Enter the number of the amount we need to calculate.
+2. A cycle that does not miss values that are not a number.
+3. Generating a random array of 100 numbers ranging from 50 to -50.
+4. Sorting an array in ascending order of numbers.
+5. Removing duplicate numbers from an array, except the required number divided by 2
+6. A cycle consisting of 4 conditions that iterates through the array and looks for the sum of two numbers that are equal to our entered value
+7. Output of the found result.
+8. Displays the message about the absence of these numbers. If there are no numbers in the array, the sum of which is equal to our entered value.
 
-Запуск программы:
-1. Запустить index.html в любом браузере.
-2. Ввести значение.
+Running the program:
+1. Start index.html in any browser.
+2. Enter the value.
